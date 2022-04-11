@@ -152,6 +152,13 @@ body{
   font-weight: 300;
 }
 
+.footer-email{
+ text-decoration: none;
+ color:#aaa;
+}
+.footer-email:hover{
+  text-decoration: underline;
+  color:#aaa;
 
-
+}
 
